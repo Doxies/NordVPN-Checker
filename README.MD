@@ -13,7 +13,7 @@ argparse
 selenium
 psutil
 How to Use
-Clone the repository git clone https://github.com/tbhaxor/nordchecker.git
+Clone the repository git clone 
 
 Change the directory cd nordchecker
 
